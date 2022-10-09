@@ -15,6 +15,7 @@ int main(){
                 // cout<<"|"<<" "<<". ";
                 if(i==0 && j==0 || i==0 && j==1 || i==1 && j==0 ) cout<<".";
                 else if(i%2==0){
+                    
                     if(j%2==0)cout<<"+";
                     else cout<<"-";
                 }
