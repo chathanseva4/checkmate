@@ -21,6 +21,7 @@ int main(){
                 else{
                     if(j%2==0) cout<<"|"; 
                     else cout<<".";
+                    
                 }
             }
             cout<<endl;
