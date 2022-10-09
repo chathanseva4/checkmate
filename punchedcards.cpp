@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int t;
+    int t,t1t;
     cin>>t;
     int x=t;
     while(t--){
