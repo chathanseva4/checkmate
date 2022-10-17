@@ -8,6 +8,9 @@ int main(){
         int r,c;
         cin>>r>>c;
         r=r*2+1;
+        
+        
+        
         c=c*2+1;
         cout<<"Case #"<<x-t<<endl;
         for(int i=0;i<r;i++){
