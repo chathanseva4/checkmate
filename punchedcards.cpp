@@ -6,6 +6,8 @@ int main(){
     int x=t;
     while(t--){
         int r,c;
+        
+        
         cin>>r>>c;
         r=r*2+1;
         
