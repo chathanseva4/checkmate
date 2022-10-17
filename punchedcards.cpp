@@ -8,6 +8,7 @@ int main(){
         int r,c;
         
         
+        
         cin>>r>>c;
         r=r*2+1;
         
